@@ -1,4 +1,4 @@
-var dataFutura = new Date("October 23, 2022 00:00").getTime();
+var dataFutura = new Date("March 23, 2022 00:00").getTime();
 
 var dias, horas, minutos, segundos;
 
